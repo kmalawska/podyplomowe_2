@@ -3,7 +3,8 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("dzien dobry");
-	// write your code here
+        System.out.println(123);
+        System.out.println(456);
+	// ten program nic ciekawego nie robi
     }
 }
